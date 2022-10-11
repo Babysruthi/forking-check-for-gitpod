@@ -21,7 +21,7 @@ tasks:
 
     # changing of working directory is not required as these tasks will
     # by default by executed in `/workspaces/demo-multi-repo-frontend`
-    #edited
+    #edited-v1
   - name: frontend
     init: |
       echo npm install
